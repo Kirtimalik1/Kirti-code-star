@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kirti-code-star
+- 👋 Hi, I’m @Kirtimalik1
 - 👀 I’m interested in Data Analyst and Data Scientist
 - 🌱 I’m currently learning Python,SQL,Excel,Power BI,Machine Learning,Generative AI
 
